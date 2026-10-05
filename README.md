@@ -10,7 +10,7 @@ A simple, policy-compliant Telegram utility bot built with Python and `python-te
 - `/help` – List of available commands
 - `/about` – Short description of the bot
 - Lightweight, fast, and easy to deploy
-- Fully compliant with Telegram Bot API and Telegram Ads policies
+- Compliant with Telegram Bot API and Telegram Ads policies
 
 ---
 
